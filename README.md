@@ -26,7 +26,7 @@ Welcome to the Music Genre Classification Project! This repository contains code
 
 ## Getting Started
 
-1. Clone this repository using `git clone <repository_url>`.
+1. Clone this repository using `git clone https://github.com/JordanKisa/Music-Genre-Classification.git`.
 2. Navigate to the relevant directories and explore the code and notebooks.
 3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Follow the instructions in the notebooks to preprocess data and train models.

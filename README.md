@@ -38,6 +38,6 @@ Contributions, suggestions, and improvements are welcome! If you have any feedba
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license_file). You are free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 Thank you for visiting the Music Genre Classification Project repository! Let's dive into the exciting world of machine learning and music analysis.

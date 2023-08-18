@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore") #librosa has some and the libraries it uses wi
 
 def extract_features(audio_file):
     y, sr = librosa.load(audio_file)
-    parent_folder = os.path.basename(os.path.dirname(audio_file))
+    parent_folder = os.path.basename(os.path.dirname(os.path.dirname(audio_file)))
 
 # Calculate tempo
     tempo, _ = librosa.beat.beat_track(y=y, sr=sr)

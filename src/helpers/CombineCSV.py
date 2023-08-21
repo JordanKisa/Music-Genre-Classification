@@ -7,7 +7,7 @@ root_directory = './data/'
 print(os.path.isdir(root_directory))
 
 # Define the string that the subdirectories should contain
-target_substring = '60-Seconds'
+target_substring = '10-Seconds'
 
 # Initialize an empty DataFrame to store combined data
 frames = []
@@ -23,7 +23,7 @@ for root, dirs, files in os.walk(root_directory):
 
 combined_data = pd.concat(frames)
 # Define the path to save the combined CSV file
-output_file_path = './data/60-Seconds_features_detailed.csv'
+output_file_path = './data/10-Seconds-Split_features_detailed.csv'
 
 # Save the combined DataFrame to a CSV file
 combined_data.to_csv(output_file_path, index=False)

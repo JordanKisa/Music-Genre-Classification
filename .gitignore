@@ -88,3 +88,31 @@ data/RnB/10-Seconds-Split/
 data/Samba/10-Seconds-Split/
 
 data/Soca/10-Seconds-Split/
+
+data/Amapiano/Spectogram/
+
+data/Bossa-Nova/Spectogram/
+
+data/Favela-Funk/Spectogram/
+
+data/Funky-Soul/Spectogram/
+
+data/Jungle/Spectogram/
+
+data/Neo-Soul/Spectogram/
+
+data/Reggae/Spectogram/
+
+data/Reggaeton/Spectogram/
+
+data/RnB/Spectogram/
+
+data/Samba/Spectogram/
+
+data/Soca/Spectogram/
+
+notebooks/BPM Boxplot.jpg
+
+notebooks/PCA Scattert.jpg
+
+data/Spectrogram/
